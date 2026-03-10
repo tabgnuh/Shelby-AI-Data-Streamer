@@ -1,0 +1,5 @@
+boto3>=1.26.0
+aptos-sdk>=0.1.0  # Aptos Python SDK
+click>=8.1.0      # Cho CLI
+torch>=2.0.0      # Cho PyTorch integration
+cryptography>=41.0.0  # Cho handle proofs
